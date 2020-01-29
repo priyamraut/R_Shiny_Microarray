@@ -1,5 +1,7 @@
 #adopted from the rstudio seminars
 #https://github.com/rstudio/webinars/blob/master/
+#Installing the devtools if needed
+#install.packages("devtools")
 
 library(shinydashboard)
 
